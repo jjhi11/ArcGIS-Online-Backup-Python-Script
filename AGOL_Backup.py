@@ -1,7 +1,7 @@
 # ArcGIS Online Backup Script
 #script must be run in Python 3
 
-'''this script based upon: "https://community.esri.com/thread/208467-download-feature-service-as-file-geodatabase"'''
+#script based on: "https://community.esri.com/thread/208467-download-feature-service-as-file-geodatabase"
 #note: This will delete a temporary geodatabase created in ArcGIS onlne via this script
 
 
